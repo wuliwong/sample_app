@@ -24,5 +24,6 @@ end
 
 gem 'jquery-rails'
 gem 'pg'
+gem 'webrat'
 
 
